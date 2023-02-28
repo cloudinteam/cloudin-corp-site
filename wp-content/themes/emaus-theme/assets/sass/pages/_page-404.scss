@@ -1,0 +1,27 @@
+/*-------------------------------------------------------*/
+/* Page 404
+/*-------------------------------------------------------*/
+.page-404 {
+	&__title {
+		font-size: 2rem;
+		font-weight: 700;
+	}
+
+	&__text {
+		font-size: 1.5rem;
+	}
+
+	&__img {
+		max-height: 366px;
+
+		@media ( max-width: 1170px ) {
+			max-height: 240px;
+		}
+	}	
+
+	@include bp-md-up {
+		&__title {
+			font-size: 3.75rem;
+		}
+	}
+}

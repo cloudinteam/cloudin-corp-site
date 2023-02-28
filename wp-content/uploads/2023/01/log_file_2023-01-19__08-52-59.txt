@@ -1,0 +1,71 @@
+
+---Downloaded files---
+The import files for: Demo 1: Startup were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://localhost/cloudin-corp
+Data file = /var/www/html/cloudin-corp/wp-content/uploads/2023/01/demo-content-import-file_2023-01-19__08-52-59.xml
+Widget file = /var/www/html/cloudin-corp/wp-content/uploads/2023/01/demo-widgets-import-file_2023-01-19__08-52-59.json
+Customizer file = /var/www/html/cloudin-corp/wp-content/uploads/2023/01/demo-customizer-import-file_2023-01-19__08-52-59.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Blog Sidebar : 
+
+Search - No Title - Imported
+Custom HTML - Sign up for Newsletter - Imported
+Emaus Popular Posts - Popular Posts - Imported
+Emaus Socials - Follow Us - Imported
+Categories - No Title - Imported
+
+Newsletter Single Post : 
+
+Custom HTML - No Title - Imported
+
+Footer Column 1 : 
+
+Emaus Logo - No Title - Imported
+Custom HTML - No Title - Imported
+
+Footer Column 2 : 
+
+Navigation Menu - Product - Imported
+Navigation Menu - For Teams - Imported
+
+Footer Column 3 : 
+
+Navigation Menu - Company - Imported
+Navigation Menu - Support - Imported
+
+Footer Column 4 : 
+
+Custom HTML - Stay Connected - Imported
+
+
+
+---Importing customizer settings---
+Error: The customizer import file is not suitable for current theme. You can only import customizer settings for the same theme or a child theme.
+
+---ocdi/after_import---
+

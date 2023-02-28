@@ -1,0 +1,140 @@
+/*-------------------------------------------------------*/
+/* Footer
+/*-------------------------------------------------------*/
+.footer {
+  background-color: #101523;
+
+  ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  &__widgets {
+    padding: 80px 0 40px;
+  }
+
+  .widget.widget_calendar a {
+    color: $main-color;
+  }
+
+}
+
+
+/* Footer Menu Bar
+-------------------------------------------------------*/
+.footer__menu-bar {
+  padding: 24px 0;
+  border-bottom: 1px solid #2c3242;
+}
+
+.footer__nav-menu {
+
+  @include bp-md-down {
+    text-align: center;   
+    
+    .footer & {
+      margin-bottom: 18px;
+    }
+  }
+
+  li {
+    display: inline-block;
+    margin-right: 24px;
+    line-height: 30px;
+
+    &:last-child {
+      margin-right: 0;
+    }
+
+    a {
+      color: $text-color;
+
+      &:hover {
+        color: $main-color;
+      }
+    }
+  }
+}
+
+
+/* Footer Address
+-------------------------------------------------------*/
+.footer__address {
+  font-size: 1.25rem;
+}
+
+/* Footer Socials
+-------------------------------------------------------*/
+.footer__socials {
+  text-align: center;
+
+  @include bp-md-up {
+    text-align: right;
+  }  
+}
+
+/* Footer Widgets
+-------------------------------------------------------*/
+.footer__widgets {
+
+  .widget-title,
+  .widget_rss .rsswidget {
+    color: #ffffff;
+  }
+
+  .widget_recent_comments a,
+  #wp-calendar thead th,
+  .widget_tag_cloud a {
+    color: #b8c1cc;
+  }
+
+  .widget_tag_cloud a {
+    background-color: #2c3242;
+  }
+
+  .widget_categories li,
+  .widget_pages li,
+  .widget_archive li,
+  .widget_meta li,
+  .widget_nav_menu li {
+    padding: 3px 0;
+    border: 0 !important;
+  }
+
+  .widget_recent_entries li,
+  .widget_recent_comments li,
+  .widget_rss li {
+    border-color: #2c3242;
+  }
+
+  .widget a:hover {
+    color: $main-color;
+  }
+
+  .widget .sub-menu li:first-child,
+  .widget .children li:first-child {
+    padding-top: 0;
+  }
+}
+
+
+/* Bottom Footer
+-------------------------------------------------------*/
+.footer__bottom {
+  padding: 27px 0;
+  font-size: 0.875rem;
+
+  a {
+    color: $text-color;
+
+    &:hover {
+      color: $main-color;
+    }
+  }
+}
+
+.copyright {
+  font-size: 0.8125rem;
+  color: lighten( $text-color, 10% );
+}

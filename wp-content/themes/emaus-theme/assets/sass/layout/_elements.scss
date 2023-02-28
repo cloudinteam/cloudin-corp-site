@@ -1,0 +1,541 @@
+/*-------------------------------------------------------*/
+/* Buttons
+/*-------------------------------------------------------*/
+
+.btn {
+  font-weight: 700;
+  font-family: $body-font;
+  overflow: hidden;
+  display: inline-block;
+  text-decoration: none;
+  text-align: center;
+  border: 1px solid transparent;
+  border-radius: 50px;
+  line-height: 1.1;
+  @include transition($all);
+  color: #fff;
+  background-color: $main-color;
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+  position: relative;
+  z-index: 1;
+  white-space: nowrap;
+  vertical-align: middle;
+  -ms-touch-action: manipulation;
+  touch-action: manipulation;
+  cursor: pointer;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+
+  &:hover {
+    color: #fff;
+    background-color: $main-color;
+    border-color: transparent;
+  }
+
+  &:focus {
+    outline: none;
+    color: #fff;
+  }
+
+  &--lg,
+  &--lg.btn--button {
+    font-size: 1rem;
+    padding: 14px 30px;
+  }
+
+  &--md,
+  &--md.btn--button {
+    font-size: 1rem;
+    padding: 12px 38px;
+  }
+
+  &.btn--sm,
+  &--sm.btn--button {
+    font-size: 0.875rem;
+    padding: 9px 24px;
+  }
+
+  &--color {
+    background-color: $main-color;
+
+    &:hover {
+      opacity: .92;
+    }
+  }
+
+  &--stroke {
+    border: 1px solid $main-color;
+    background-color: transparent;
+    color: $main-color;
+  }
+
+  &--dark {
+    background-color: $bg-dark;
+  }
+
+  &--white {
+    background-color: #fff;
+    color: $heading-color;
+  }
+
+  &--light {
+    background-color: $bg-light;
+    color: $heading-color;
+
+    &:hover,
+    &:focus {
+      background-color: $main-color;
+    }
+  }
+
+  &--white:focus {
+    color: $heading-color;
+  }
+
+  &--stroke:focus {
+    background-color: $main-color;
+  }
+
+  &--wide {
+    width: 100% !important;
+  }
+}
+
+
+.rounded,
+.rounded:before {
+  border-radius: 70px;
+}
+
+.section-buttons {
+  margin-bottom: 50px;
+
+  a {
+    margin-bottom: 10px;
+  }
+}
+
+
+
+/* Input Buttons
+-------------------------------------------------------*/
+.btn--button {
+  border: none;
+  margin-bottom: 0;
+  width: auto;
+
+  &:hover,
+  &:focus {
+    background-color: $main-color;
+  }
+
+  &.btn--color,
+  &.btn--dark {
+    color: #fff;
+  }
+}
+
+
+/*-------------------------------------------------------*/
+/* Form Elements
+/*-------------------------------------------------------*/
+input,
+select,
+textarea {
+  height: 48px;
+  border: 1px solid $border-color;
+  border-radius: 3px;
+  width: 100%;
+  margin-bottom: 16px;
+  font-size: 0.9375rem;
+  padding: 0 16px;
+  @include transition(border-color .3s ease-in-out, background-color .3s ease-in-out);
+}
+
+textarea {
+  height: auto;
+  display: block;
+  padding: 8px 16px;
+}
+
+button,
+input[type="button"],
+input[type="reset"],
+input[type="submit"],
+.button {
+  cursor: pointer;
+  white-space: normal;
+  height: auto;
+  background-color: $main-color;
+  border-color: transparent;
+  padding: 11px 24px;
+  color: #fff;
+  font-family: $body-font;
+  font-weight: 700;
+
+  &:focus {
+    border-color: transparent;
+    background-color: $main-color;
+    color: #fff;
+  }
+}
+
+input[type="search"] {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+input:focus,
+textarea:focus {
+  border-color: $main-color;
+  background-color: #fff;
+  outline: none;
+  box-shadow: none;
+}
+
+.elementor-field-group {
+  input, select, textarea {
+    margin-bottom: 0;
+  }
+}
+
+
+/* Change Color of Placeholders */
+input::-webkit-input-placeholder,
+textarea::-webkit-input-placeholder {
+  color: $text-color;
+}
+
+input:-moz-placeholder,
+textarea:-moz-placeholder {
+  color: $text-color;
+  opacity: 1;
+}
+
+input::-moz-placeholder,
+textarea::-moz-placeholder {
+  color: $text-color;
+  opacity: 1;
+}
+
+input:-ms-input-placeholder,
+textarea:-ms-input-placeholder {
+  color: $text-color;
+}
+
+label {
+  color: $heading-color;
+  font-family: $heading-font;
+  font-size: 1rem;
+  font-weight: 400;
+  display: inline-block;
+  vertical-align: middle;
+  margin-bottom: 10px;
+
+  input {
+    float: left;
+  }
+}
+
+.form-group {
+  position: relative;
+}
+
+/* rtl:raw:
+[type="tel"],
+[type="url"],
+[type="email"],
+[type="number"] {
+  direction: ltr;
+}
+*/
+
+
+/* Checkboxes & Radio Buttons
+-------------------------------------------------------*/
+input[type="checkbox"],
+input[type="radio"] {
+  min-width: 20px;
+  width: 20px;
+  height: 20px;
+  margin-bottom: 0;
+  margin-right: 8px;
+  text-align: center;
+  line-height: 18px;
+  vertical-align: middle;
+  background-color: #fff;
+  border: 1px solid darken($border-color, 5%);
+  -moz-appearance: none;
+  -webkit-appearance: none;
+
+  &:focus {
+    border-color: darken($border-color, 5%);
+    background-color: $bg-light;
+  }
+}
+
+input[type="checkbox"] {  
+
+  &:checked:after {
+    content: '\f383';
+    font-family: 'ui-icons';
+  }
+}
+
+input[type="checkbox"] + label,
+input[type="radio"] + label {
+  cursor: pointer;
+  margin-bottom: 0;
+  position: relative;
+  line-height: 20px;
+  color: $meta-color;
+}
+
+input[type="radio"] {
+  border-radius: 50%;
+
+  &:checked:after {
+    content: '';
+    width: 8px;
+    height: 8px;
+    position: relative;
+    top: -2px;
+    border-radius: 50%;
+    display: inline-block;
+    background-color: $bg-dark;
+  }
+}
+
+.consent-checkbox {
+  margin-top: 12px;
+  margin-bottom: 32px;
+	overflow: hidden;
+	display: flex;
+
+  &__label {
+		line-height: 20px;
+		display: inline-block;
+    color: $text-color;
+  }
+}
+
+
+/*-------------------------------------------------------*/
+/* Tables
+/*-------------------------------------------------------*/
+table th {
+	font-weight: normal; }
+
+table caption {
+	margin-bottom: 10px; }
+
+table > thead > tr > th,
+table > tbody > tr > th,
+table > tfoot > tr > th,
+table > thead > tr > td,
+table > tbody > tr > td,
+table > tfoot > tr > td {
+	border: 1px solid $border-color;
+  padding: 10px;
+}
+
+table > thead > tr > th {
+  border-bottom: none;
+}
+
+table thead tr th,
+table tbody tr th {
+	font-size: 1rem;
+	color: $heading-color;
+	font-family: $heading-font;
+	font-weight: 600;
+}
+
+.table-responsive {
+  display: block;
+  width: 100%;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  -ms-overflow-style: -ms-autohiding-scrollbar;
+}
+
+
+/*-------------------------------------------------------*/
+/* Blockquote
+/*-------------------------------------------------------*/
+blockquote {
+  line-height: 1.6;
+  padding: 12px 40px;
+  margin-bottom: 40px;
+  margin-top: 40px;
+  border-left: 3px solid $main-color;
+
+  p {
+    margin-bottom: 0;
+    color: $heading-color;
+    font-family: $heading-font;
+    font-style: italic;
+    font-size: 1.5rem;
+  }
+
+  cite {
+    color: $meta-color;
+    font-style: normal;
+    font-size: 0.875rem;
+    margin-top: 1em;
+    line-height: 1.8;
+    display: inline-block;
+  }
+}
+
+
+/*-------------------------------------------------------*/
+/* Alerts
+/*-------------------------------------------------------*/
+.alert {
+  border-radius: 5px;
+
+  &-info {
+    background-color: #d9edf7;
+    border-color: transparent;
+    border-left: 5px solid #bcdff1;
+  }
+
+  &-success {
+    background-color: #dff0d8;
+    border-color: transparent;
+    border-left: 5px solid #cae6be;
+  }
+
+  &-warning {
+    background-color: #fcf8e3;
+    border-color: transparent;
+    border-left: 5px solid #f9f0c3;
+  }
+
+  &-danger {
+    background-color: #f2dede;
+    border-color: transparent;
+    border-left: 5px solid #e8c4c4;
+  }
+}
+
+.close {
+  font-weight: 400;
+}
+
+
+/*-------------------------------------------------------*/
+/* Social Icons
+/*-------------------------------------------------------*/
+.socials {
+
+  &--white a {
+    color: #fff;
+  }
+
+  &--base a {
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    margin: 0 6px 6px 0;
+    color: #fff;
+
+    &:hover {
+      color: #fff !important;
+      opacity: 0.9;
+    }
+  }
+
+  &--rounded a {
+    border-radius: 50%;
+  }
+}
+
+.social {
+  display: inline-block;
+  color: $text-color;
+  text-align: center;
+  margin-right: 24px;
+  font-size: 1.25rem;
+  @include transition (all .1s ease-in-out);
+
+  &:last-child {
+    margin-right: 0;
+  } 
+}
+
+
+.social.social-facebook:hover { color: #39599f; }
+.social.social-twitter:hover { color: #55ACEE; }
+.social.social-blogger:hover { color: #f57d00; }
+.social.social-deviantart:hover { color: #05cc47; }
+.social.social-digg:hover { color: #005be2; }
+.social.social-skype:hover { color: #00aff0; }
+.social.social-soundcloud:hover { color: #ff3300; }
+.social.social-spotify:hover { color: #1db954; }
+.social.social-whatsapp:hover { color: #25d366; }
+.social.social-yahoo:hover { color: #410093; }
+.social.social-yelp:hover { color: #af0606; }
+.social.social-youtube:hover { color: #c61d23; }
+.social.social-snapchat:hover { color: #fffb01; }
+.social.social-linkedin:hover { color: #0e76a8; }
+.social.social-pinterest:hover { color: #c8232c; }
+.social.social-instagram:hover { color: #e1306c; }
+.social.social-rss:hover { color: #ef822a; }
+.social.social-pocket:hover { color: #ef4056; }
+.social.social-email:hover { color: #333333; }
+.social.social-vkontakte:hover { color: #45668e; }
+.social.social-reddit:hover { color: #ff4500; }
+.social.social-dribbble:hover { color: #ea4c89; }
+.social.social-tumblr:hover { color: #35465c; }
+.social.social-behance:hover { color: #1769ff; }
+.social.social-slack:hover { color: #6ecadc; }
+.social.social-github:hover { color: #333333; }
+.social.social-flickr:hover { color: #ff0084; }
+.social.social-xing:hover { color: #026466; }
+.social.social-vimeo:hover { color: #1ab7ea; }
+.social.social-facebook-messenger:hover { color: #0084ff; }
+.social.social-viber:hover { color: #8f5db7; }
+.social.social-telegram:hover { color: #0088cc; }
+.social.social-line:hover { color: #00c300; }
+
+
+// Base
+.socials--base .social-facebook { background-color: #39599f; }
+.socials--base .social-twitter { background-color: #55ACEE; }
+.socials--base .social-blogger { background-color: #f57d00; }
+.socials--base .social-deviantart { background-color: #05cc47; }
+.socials--base .social-digg { background-color: #005be2; }
+.socials--base .social-skype { background-color: #00aff0; }
+.socials--base .social-soundcloud { background-color: #ff3300; }
+.socials--base .social-spotify { background-color: #1db954; }
+.socials--base .social-whatsapp { background-color: #25d366; }
+.socials--base .social-yahoo { background-color: #410093; }
+.socials--base .social-yelp { background-color: #af0606; }
+.socials--base .social-youtube { background-color: #c61d23; }
+.socials--base .social-snapchat { background-color: #fffb01; }
+.socials--base .social-linkedin { background-color: #0e76a8; }
+.socials--base .social-pinterest { background-color: #c8232c; }
+.socials--base .social-instagram { background-color: #e1306c; }
+.socials--base .social-rss { background-color: #ef822a; }
+.socials--base .social-pocket { background-color: #ef4056; }
+.socials--base .social-email { background-color: #333333; }
+.socials--base .social-vkontakte { background-color: #45668e; }
+.socials--base .social-reddit { background-color: #ff4500; }
+.socials--base .social-dribbble { background-color: #ea4c89; }
+.socials--base .social-tumblr { background-color: #35465c; }
+.socials--base .social-behance { background-color: #1769ff; }
+.socials--base .social-slack { background-color: #6ecadc; }
+.socials--base .social-github { background-color: #333333; }
+.socials--base .social-flickr { background-color: #ff0084; }
+.socials--base .social-xing { background-color: #026466; }
+.socials--base .social-vimeo { background-color: #1ab7ea; }
+.socials--base .social-facebook-messenger { background-color: #0084ff; }
+.socials--base .social-viber { background-color: #8f5db7; }
+.socials--base .social-telegram { background-color: #0088cc; }
+.socials--base .social-line { background-color: #00c300; }

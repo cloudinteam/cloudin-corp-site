@@ -1,0 +1,59 @@
+/*-------------------------------------------------------*/
+/* Grid
+/*-------------------------------------------------------*/
+.elementor-section.elementor-section-boxed>.elementor-container {
+  max-width: 1340px;
+}
+
+
+// Container
+.elementor-top-section > .elementor-container.elementor-column-gap-default {
+	padding: 0 15px;
+}
+
+.elementor-top-section > .elementor-container.elementor-column-gap-extended {
+	padding: 0 20px;
+}
+
+.elementor-top-section > .elementor-container.elementor-column-gap-wide {
+	padding: 0 25px;
+}
+
+.elementor-top-section > .elementor-container.elementor-column-gap-wider {
+	padding: 0 30px;
+}
+
+
+Column
+.elementor-column-gap-default > .elementor-column>.elementor-element-populated {
+	padding: 15px;
+}
+
+.elementor-column-gap-extended > .elementor-column>.elementor-element-populated {
+	padding: 20px;
+}
+
+.elementor-column-gap-wide > .elementor-column>.elementor-element-populated {
+	padding: 25px;
+}
+
+.elementor-column-gap-wider > .elementor-column>.elementor-element-populated {
+	padding: 30px;
+}
+
+@include bp-md-down {
+	.elementor-column-gap-default>.elementor-top-column>.elementor-element-populated,
+	.elementor-column-gap-extended>.elementor-top-column>.elementor-element-populated,
+	.elementor-column-gap-wide>.elementor-top-column>.elementor-element-populated,
+	.elementor-column-gap-wider>.elementor-top-column>.elementor-element-populated {
+		padding: 0;
+	}
+
+	.elementor-column-gap-default>.elementor-inner-column>.elementor-element-populated,
+	.elementor-column-gap-extended>.elementor-inner-column>.elementor-element-populated,
+	.elementor-column-gap-wide>.elementor-inner-column>.elementor-element-populated,
+	.elementor-column-gap-wider>.elementor-inner-column>.elementor-element-populated {
+		padding: 15px;
+	}
+
+}

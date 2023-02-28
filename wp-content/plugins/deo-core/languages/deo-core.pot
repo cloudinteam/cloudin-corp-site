@@ -1,0 +1,390 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-12-31 11:47+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: admin/partials/deo-core-admin-display.php:19
+msgid "Welcome to ElementorKit"
+msgstr ""
+
+#: includes/deo-core-global-functions.php:152
+#: includes/deo-core-global-functions.php:409
+msgid "Facebook"
+msgstr ""
+
+#: includes/deo-core-global-functions.php:161
+#: includes/deo-core-global-functions.php:410
+msgid "Twitter"
+msgstr ""
+
+#: includes/deo-core-global-functions.php:170
+#: includes/deo-core-global-functions.php:411
+msgid "Linkedin"
+msgstr ""
+
+#: includes/deo-core-global-functions.php:179
+#: includes/deo-core-global-functions.php:412
+msgid "Instagram"
+msgstr ""
+
+#: includes/deo-core-global-functions.php:188
+msgid "Youtube"
+msgstr ""
+
+#: includes/deo-core-global-functions.php:197
+msgid "Behance"
+msgstr ""
+
+#: includes/deo-core-global-functions.php:206
+#: includes/deo-core-global-functions.php:419
+msgid "Blogger"
+msgstr ""
+
+#: includes/deo-core-global-functions.php:215
+msgid "DeviantArt"
+msgstr ""
+
+#: includes/deo-core-global-functions.php:224
+msgid "Digg"
+msgstr ""
+
+#: includes/deo-core-global-functions.php:233
+msgid "Dribbble"
+msgstr ""
+
+#: includes/deo-core-global-functions.php:242
+msgid "Flickr"
+msgstr ""
+
+#: includes/deo-core-global-functions.php:251
+#: includes/deo-core-global-functions.php:416
+msgid "Github"
+msgstr ""
+
+#: includes/deo-core-global-functions.php:260
+#: includes/deo-core-global-functions.php:415
+msgid "Pinterest"
+msgstr ""
+
+#: includes/deo-core-global-functions.php:269
+msgid "Reddit"
+msgstr ""
+
+#: includes/deo-core-global-functions.php:278
+msgid "RSS"
+msgstr ""
+
+#: includes/deo-core-global-functions.php:287
+msgid "Slack"
+msgstr ""
+
+#: includes/deo-core-global-functions.php:296
+msgid "Skype"
+msgstr ""
+
+#: includes/deo-core-global-functions.php:305
+#: includes/deo-core-global-functions.php:417
+msgid "Snapchat"
+msgstr ""
+
+#: includes/deo-core-global-functions.php:314
+msgid "Soundcloud"
+msgstr ""
+
+#: includes/deo-core-global-functions.php:323
+msgid "Spotify"
+msgstr ""
+
+#: includes/deo-core-global-functions.php:332
+msgid "Tumblr"
+msgstr ""
+
+#: includes/deo-core-global-functions.php:341
+#: includes/deo-core-global-functions.php:414
+msgid "Vimeo"
+msgstr ""
+
+#: includes/deo-core-global-functions.php:350
+msgid "Vkontakte"
+msgstr ""
+
+#: includes/deo-core-global-functions.php:359
+msgid "WhatsApp"
+msgstr ""
+
+#: includes/deo-core-global-functions.php:368
+msgid "Xing"
+msgstr ""
+
+#: includes/deo-core-global-functions.php:377
+msgid "Yahoo"
+msgstr ""
+
+#: includes/deo-core-global-functions.php:386
+msgid "Yelp"
+msgstr ""
+
+#: includes/deo-core-global-functions.php:413
+msgid "YouTube"
+msgstr ""
+
+#: includes/deo-core-global-functions.php:418
+msgid "Bloglovin"
+msgstr ""
+
+#: includes/deo-core-global-functions.php:420
+msgid "Telegram"
+msgstr ""
+
+#: metaboxes/deo-metabox-init.php:10
+msgid "Page Settings"
+msgstr ""
+
+#: metaboxes/deo-metabox-init.php:17
+msgid "Page Layout"
+msgstr ""
+
+#: metaboxes/deo-metabox-init.php:21
+msgid "Full Width"
+msgstr ""
+
+#: metaboxes/deo-metabox-init.php:22
+msgid "Left Sidebar"
+msgstr ""
+
+#: metaboxes/deo-metabox-init.php:23
+msgid "Right Sidebar"
+msgstr ""
+
+#: metaboxes/deo-metabox-init.php:25
+msgid "Select the layout for this page"
+msgstr ""
+
+#: metaboxes/deo-metabox-init.php:28
+msgid "Header Layout"
+msgstr ""
+
+#: metaboxes/deo-metabox-init.php:32
+msgid "Header Default"
+msgstr ""
+
+#: metaboxes/deo-metabox-init.php:33
+msgid "Header Transparent"
+msgstr ""
+
+#: metaboxes/deo-metabox-init.php:37
+msgid "Page Subtitle"
+msgstr ""
+
+#: post-types/case-studies.php:14 post-types/case-studies.php:25
+msgid "Case Studies"
+msgstr ""
+
+#: post-types/case-studies.php:15
+msgid "Case Study"
+msgstr ""
+
+#: post-types/case-studies.php:16 post-types/case-studies.php:17
+#: post-types/theme-templates.php:16 post-types/theme-templates.php:17
+msgid "Add New"
+msgstr ""
+
+#: post-types/case-studies.php:18
+msgid "Edit Case Study"
+msgstr ""
+
+#: post-types/case-studies.php:19
+msgid "New Case Study"
+msgstr ""
+
+#: post-types/case-studies.php:20
+msgid "View Case Study"
+msgstr ""
+
+#: post-types/case-studies.php:21
+msgid "Search Case Study"
+msgstr ""
+
+#: post-types/case-studies.php:22
+msgid "No Case Studies found"
+msgstr ""
+
+#: post-types/case-studies.php:23
+msgid "No Case Studies found in Trash"
+msgstr ""
+
+#: post-types/case-studies.php:24
+msgid "Parent Case Study:"
+msgstr ""
+
+#: post-types/case-studies.php:68
+msgctxt "Taxonomy plural name"
+msgid "Case Study Categories"
+msgstr ""
+
+#: post-types/case-studies.php:69
+msgctxt "Taxonomy singular name"
+msgid "Case Study Category"
+msgstr ""
+
+#: post-types/case-studies.php:70
+msgid "Search Categories"
+msgstr ""
+
+#: post-types/case-studies.php:71
+msgid "Popular Categories"
+msgstr ""
+
+#: post-types/case-studies.php:72
+msgid "All Categories"
+msgstr ""
+
+#: post-types/case-studies.php:73 post-types/case-studies.php:74
+msgid "Parent Category"
+msgstr ""
+
+#: post-types/case-studies.php:75
+msgid "Edit Category"
+msgstr ""
+
+#: post-types/case-studies.php:76
+msgid "Update Category"
+msgstr ""
+
+#: post-types/case-studies.php:77
+msgid "Add New Category"
+msgstr ""
+
+#: post-types/case-studies.php:78
+msgid "New Category Name"
+msgstr ""
+
+#: post-types/case-studies.php:79
+msgid "Add or remove Categories"
+msgstr ""
+
+#: post-types/case-studies.php:80
+msgid "Choose from most used Categories"
+msgstr ""
+
+#: post-types/case-studies.php:81
+msgid "Categories"
+msgstr ""
+
+#: post-types/theme-templates.php:14 post-types/theme-templates.php:15
+#: post-types/theme-templates.php:25
+msgid "Theme Templates"
+msgstr ""
+
+#: post-types/theme-templates.php:18
+msgid "Edit Theme Templates"
+msgstr ""
+
+#: post-types/theme-templates.php:19
+msgid "New Theme Templates"
+msgstr ""
+
+#: post-types/theme-templates.php:20
+msgid "View Theme Templates"
+msgstr ""
+
+#: post-types/theme-templates.php:21
+msgid "Search Theme Templates"
+msgstr ""
+
+#: post-types/theme-templates.php:22
+msgid "No Theme Templates found"
+msgstr ""
+
+#: post-types/theme-templates.php:23
+msgid "No Theme Templates found in Trash"
+msgstr ""
+
+#: post-types/theme-templates.php:24
+msgid "Parent Theme Templates:"
+msgstr ""
+
+#: widgets/widget-logo.php:15
+msgid "Logo Widget"
+msgstr ""
+
+#: widgets/widget-logo.php:74 widgets/widget-popular-posts.php:80
+#: widgets/widget-socials.php:47
+msgid "Title"
+msgstr ""
+
+#: widgets/widget-logo.php:79
+msgid "Choose your logo"
+msgstr ""
+
+#: widgets/widget-logo.php:92 widgets/widget-logo.php:110
+msgid "Choose logo"
+msgstr ""
+
+#: widgets/widget-logo.php:93 widgets/widget-logo.php:111
+msgid "Remove logo"
+msgstr ""
+
+#: widgets/widget-logo.php:97
+msgid "Choose your Retina logo"
+msgstr ""
+
+#: widgets/widget-logo.php:116
+msgid "Description"
+msgstr ""
+
+#: widgets/widget-logo.php:123
+msgid "Hide social icons"
+msgstr ""
+
+#: widgets/widget-popular-posts.php:14
+msgid "Popular Posts Widget"
+msgstr ""
+
+#: widgets/widget-popular-posts.php:30 widgets/widget-popular-posts.php:72
+msgid "Popular Posts"
+msgstr ""
+
+#: widgets/widget-popular-posts.php:86
+msgid "Number or posts"
+msgstr ""
+
+#: widgets/widget-popular-posts.php:93
+msgid "Show Date"
+msgstr ""
+
+#: widgets/widget-popular-posts.php:98
+msgid "Order"
+msgstr ""
+
+#: widgets/widget-popular-posts.php:110
+msgid "Posts by ID's"
+msgstr ""
+
+#: widgets/widget-popular-posts.php:111
+msgid ""
+"Paste post ID's separated by commas. To find ID, click edit post and you'll "
+"find it in the browser address bar"
+msgstr ""
+
+#: widgets/widget-popular-posts.php:122
+msgid "Recent Posts"
+msgstr ""
+
+#: widgets/widget-socials.php:14
+msgid "Socials widget"
+msgstr ""

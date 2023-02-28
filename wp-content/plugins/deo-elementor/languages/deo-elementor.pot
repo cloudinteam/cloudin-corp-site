@@ -1,0 +1,1164 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-12-31 11:48+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: deo-elementor.php:179
+msgid "DeoThemes Widgets"
+msgstr ""
+
+#: deo-elementor.php:200
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" to be installed and activated."
+msgstr ""
+
+#: deo-elementor.php:201
+msgid "Deo Elementor Extension"
+msgstr ""
+
+#: deo-elementor.php:202 deo-elementor.php:226
+msgid "Elementor"
+msgstr ""
+
+#: deo-elementor.php:224 deo-elementor.php:249
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" version %3$s or greater."
+msgstr ""
+
+#: deo-elementor.php:225 deo-elementor.php:250
+msgid "Deo Elementor"
+msgstr ""
+
+#: deo-elementor.php:251
+msgid "PHP"
+msgstr ""
+
+#: deo-elementor.php:357
+msgid "Streamline"
+msgstr ""
+
+#: deo-elementor.php:369
+msgid "Orion"
+msgstr ""
+
+#: widgets/deo-animated-text.php:33
+msgid "Deo Animated Text"
+msgstr ""
+
+#: widgets/deo-animated-text.php:115 widgets/deo-blog-posts.php:383
+#: widgets/deo-case-studies.php:299 widgets/deo-case-studies.php:606
+#: widgets/deo-icon-box.php:100 widgets/deo-images-slider.php:195
+#: widgets/deo-pricing-tables.php:712 widgets/deo-testimonials-slider.php:242
+msgid "Content"
+msgstr ""
+
+#: widgets/deo-animated-text.php:123
+msgid "Before Text"
+msgstr ""
+
+#: widgets/deo-animated-text.php:125
+msgid "Check this "
+msgstr ""
+
+#: widgets/deo-animated-text.php:134
+msgid "Animated Text"
+msgstr ""
+
+#: widgets/deo-animated-text.php:136
+msgid "Type text separated by commas"
+msgstr ""
+
+#: widgets/deo-animated-text.php:137
+msgid "Amazing, Flexible, Unique"
+msgstr ""
+
+#: widgets/deo-animated-text.php:144
+msgid "After Text"
+msgstr ""
+
+#: widgets/deo-animated-text.php:146
+msgid " text effect"
+msgstr ""
+
+#: widgets/deo-animated-text.php:155
+msgid "HTML Tag"
+msgstr ""
+
+#: widgets/deo-animated-text.php:176 widgets/deo-blog-posts.php:735
+#: widgets/deo-breadcrumbs.php:104 widgets/deo-case-studies.php:677
+#: widgets/deo-icon-box.php:150 widgets/deo-images-slider.php:203
+#: widgets/deo-pricing-tables.php:151 widgets/deo-pricing-tables.php:742
+#: widgets/deo-testimonials-slider.php:250 widgets/deo-video-icon.php:147
+msgid "Alignment"
+msgstr ""
+
+#: widgets/deo-animated-text.php:180 widgets/deo-blog-posts.php:739
+#: widgets/deo-breadcrumbs.php:108 widgets/deo-case-studies.php:351
+#: widgets/deo-case-studies.php:681 widgets/deo-contact-form-7.php:363
+#: widgets/deo-icon-box.php:154 widgets/deo-images-slider.php:207
+#: widgets/deo-pricing-tables.php:155 widgets/deo-pricing-tables.php:747
+#: widgets/deo-testimonials-slider.php:254 widgets/deo-video-icon.php:151
+msgid "Left"
+msgstr ""
+
+#: widgets/deo-animated-text.php:184 widgets/deo-blog-posts.php:743
+#: widgets/deo-case-studies.php:355 widgets/deo-case-studies.php:685
+#: widgets/deo-contact-form-7.php:367 widgets/deo-icon-box.php:158
+#: widgets/deo-images-slider.php:211 widgets/deo-pricing-tables.php:159
+#: widgets/deo-pricing-tables.php:751 widgets/deo-testimonials-slider.php:258
+#: widgets/deo-video-icon.php:155
+msgid "Center"
+msgstr ""
+
+#: widgets/deo-animated-text.php:188 widgets/deo-blog-posts.php:747
+#: widgets/deo-breadcrumbs.php:116 widgets/deo-case-studies.php:359
+#: widgets/deo-case-studies.php:689 widgets/deo-contact-form-7.php:371
+#: widgets/deo-icon-box.php:162 widgets/deo-images-slider.php:215
+#: widgets/deo-pricing-tables.php:163 widgets/deo-pricing-tables.php:755
+#: widgets/deo-testimonials-slider.php:262 widgets/deo-video-icon.php:159
+msgid "Right"
+msgstr ""
+
+#: widgets/deo-animated-text.php:211
+msgid "Animation"
+msgstr ""
+
+#: widgets/deo-animated-text.php:220
+msgid "Type speed"
+msgstr ""
+
+#: widgets/deo-animated-text.php:229
+msgid "Backspacing speed"
+msgstr ""
+
+#: widgets/deo-animated-text.php:239
+msgid "Time before backspacing"
+msgstr ""
+
+#: widgets/deo-animated-text.php:249
+msgid "Time before typing starts"
+msgstr ""
+
+#: widgets/deo-animated-text.php:259
+msgid "Loop"
+msgstr ""
+
+#: widgets/deo-animated-text.php:276 widgets/deo-testimonials-slider.php:327
+#: widgets/deo-video-icon.php:306
+msgid "Text"
+msgstr ""
+
+#: widgets/deo-animated-text.php:284 widgets/deo-blog-posts.php:800
+#: widgets/deo-blog-posts.php:826 widgets/deo-blog-posts.php:897
+#: widgets/deo-breadcrumbs.php:146 widgets/deo-case-studies.php:566
+#: widgets/deo-case-studies.php:730 widgets/deo-case-studies.php:756
+#: widgets/deo-case-studies.php:827 widgets/deo-contact-form-7.php:211
+#: widgets/deo-contact-form-7.php:258 widgets/deo-contact-form-7.php:413
+#: widgets/deo-contact-form-7.php:485 widgets/deo-mailchimp-form.php:226
+#: widgets/deo-mailchimp-form.php:380 widgets/deo-mailchimp-form.php:452
+#: widgets/deo-pricing-tables.php:599 widgets/deo-pricing-tables.php:684
+#: widgets/deo-pricing-tables.php:1203 widgets/deo-pricing-tables.php:1262
+#: widgets/deo-video-icon.php:314
+msgid "Text Color"
+msgstr ""
+
+#: widgets/deo-blog-posts.php:33
+msgid "Deo Blog Posts"
+msgstr ""
+
+#: widgets/deo-blog-posts.php:110 widgets/deo-blog-posts.php:118
+msgid "Layout"
+msgstr ""
+
+#: widgets/deo-blog-posts.php:122
+msgid "Masonry"
+msgstr ""
+
+#: widgets/deo-blog-posts.php:123
+msgid "Creative"
+msgstr ""
+
+#: widgets/deo-blog-posts.php:124
+msgid "Standard"
+msgstr ""
+
+#: widgets/deo-blog-posts.php:133 widgets/deo-case-studies.php:440
+msgid "Columns"
+msgstr ""
+
+#: widgets/deo-blog-posts.php:162
+msgid "Post options"
+msgstr ""
+
+#: widgets/deo-blog-posts.php:172 widgets/deo-blog-posts.php:636
+msgid "Category"
+msgstr ""
+
+#: widgets/deo-blog-posts.php:183 widgets/deo-blog-posts.php:184
+msgid "Posts per page"
+msgstr ""
+
+#: widgets/deo-blog-posts.php:195 widgets/deo-case-studies.php:141
+msgid "Order by"
+msgstr ""
+
+#: widgets/deo-blog-posts.php:199 widgets/deo-case-studies.php:144
+msgid "Date"
+msgstr ""
+
+#: widgets/deo-blog-posts.php:200 widgets/deo-blog-posts.php:518
+#: widgets/deo-case-studies.php:145 widgets/deo-case-studies.php:509
+#: widgets/deo-pricing-tables.php:854
+msgid "Title"
+msgstr ""
+
+#: widgets/deo-blog-posts.php:201 widgets/deo-case-studies.php:146
+msgid "Modified date"
+msgstr ""
+
+#: widgets/deo-blog-posts.php:202
+msgid "Menu Order"
+msgstr ""
+
+#: widgets/deo-blog-posts.php:203 widgets/deo-case-studies.php:147
+msgid "Comment count"
+msgstr ""
+
+#: widgets/deo-blog-posts.php:204 widgets/deo-case-studies.php:148
+msgid "Random"
+msgstr ""
+
+#: widgets/deo-blog-posts.php:214 widgets/deo-case-studies.php:158
+msgid "Order"
+msgstr ""
+
+#: widgets/deo-blog-posts.php:218 widgets/deo-case-studies.php:161
+msgid "Ascending"
+msgstr ""
+
+#: widgets/deo-blog-posts.php:219 widgets/deo-case-studies.php:162
+msgid "Descending"
+msgstr ""
+
+#: widgets/deo-blog-posts.php:228 widgets/deo-case-studies.php:171
+msgid "Ignore Sticky Posts"
+msgstr ""
+
+#: widgets/deo-blog-posts.php:239 widgets/deo-blog-posts.php:724
+#: widgets/deo-case-studies.php:666
+msgid "Pagination"
+msgstr ""
+
+#: widgets/deo-blog-posts.php:244 widgets/deo-case-studies.php:196
+msgid "No Pagination"
+msgstr ""
+
+#: widgets/deo-blog-posts.php:245 widgets/deo-case-studies.php:197
+msgid "Numbered"
+msgstr ""
+
+#: widgets/deo-blog-posts.php:246 widgets/deo-blog-posts.php:763
+#: widgets/deo-blog-posts.php:764 widgets/deo-case-studies.php:198
+#: widgets/deo-case-studies.php:208 widgets/deo-case-studies.php:209
+msgid "Load More"
+msgstr ""
+
+#: widgets/deo-blog-posts.php:256 widgets/deo-case-studies.php:219
+msgid "Show specific posts by ID"
+msgstr ""
+
+#: widgets/deo-blog-posts.php:257 widgets/deo-case-studies.php:220
+msgid "ex.: 256, 54, 78"
+msgstr ""
+
+#: widgets/deo-blog-posts.php:258 widgets/deo-case-studies.php:221
+msgid ""
+"Paste post ID's separated by commas. To find ID, click edit post and you'll "
+"find it in the browser address bar"
+msgstr ""
+
+#: widgets/deo-blog-posts.php:275 widgets/deo-case-studies.php:238
+#: widgets/deo-images-slider.php:165 widgets/deo-pricing-tables.php:215
+#: widgets/deo-pricing-tables.php:400 widgets/deo-pricing-tables.php:818
+#: widgets/deo-testimonials-slider.php:384
+msgid "Image"
+msgstr ""
+
+#: widgets/deo-blog-posts.php:284
+msgid "Hide Image"
+msgstr ""
+
+#: widgets/deo-blog-posts.php:300 widgets/deo-blog-posts.php:588
+#: widgets/deo-case-studies.php:274 widgets/deo-case-studies.php:558
+msgid "Meta"
+msgstr ""
+
+#: widgets/deo-blog-posts.php:309
+msgid "Hide Date"
+msgstr ""
+
+#: widgets/deo-blog-posts.php:319
+msgid "Hide Author"
+msgstr ""
+
+#: widgets/deo-blog-posts.php:329
+msgid "Hide Category"
+msgstr ""
+
+#: widgets/deo-blog-posts.php:345 widgets/deo-blog-posts.php:684
+msgid "Excerpt"
+msgstr ""
+
+#: widgets/deo-blog-posts.php:354
+msgid "Hide Excerpt"
+msgstr ""
+
+#: widgets/deo-blog-posts.php:365
+msgid "Length (words)"
+msgstr ""
+
+#: widgets/deo-blog-posts.php:367
+msgid "Length of excerpt (words)"
+msgstr ""
+
+#: widgets/deo-blog-posts.php:403 widgets/deo-blog-posts.php:773
+#: widgets/deo-case-studies.php:703 widgets/deo-pricing-tables.php:769
+#: widgets/deo-pricing-tables.php:1171
+msgid "Padding"
+msgstr ""
+
+#: widgets/deo-blog-posts.php:416 widgets/deo-blog-posts.php:840
+#: widgets/deo-blog-posts.php:911 widgets/deo-case-studies.php:770
+#: widgets/deo-case-studies.php:841 widgets/deo-contact-form-7.php:307
+#: widgets/deo-icon-box.php:234 widgets/deo-pricing-tables.php:792
+#: widgets/deo-pricing-tables.php:1234 widgets/deo-pricing-tables.php:1293
+msgid "Border"
+msgstr ""
+
+#: widgets/deo-blog-posts.php:425 widgets/deo-blog-posts.php:850
+#: widgets/deo-case-studies.php:780 widgets/deo-contact-form-7.php:316
+#: widgets/deo-contact-form-7.php:440 widgets/deo-mailchimp-form.php:286
+#: widgets/deo-mailchimp-form.php:407 widgets/deo-pricing-tables.php:1159
+msgid "Border Radius"
+msgstr ""
+
+#: widgets/deo-blog-posts.php:438 widgets/deo-blog-posts.php:864
+#: widgets/deo-case-studies.php:794 widgets/deo-icon-box.php:244
+#: widgets/deo-pricing-tables.php:802 widgets/deo-testimonials-slider.php:311
+msgid "Box Shadow"
+msgstr ""
+
+#: widgets/deo-blog-posts.php:456 widgets/deo-case-studies.php:431
+msgid "Grid"
+msgstr ""
+
+#: widgets/deo-blog-posts.php:465 widgets/deo-case-studies.php:459
+#: widgets/deo-pricing-tables.php:721
+msgid "Columns margin"
+msgstr ""
+
+#: widgets/deo-blog-posts.php:491 widgets/deo-case-studies.php:482
+msgid "Rows margin"
+msgstr ""
+
+#: widgets/deo-blog-posts.php:526 widgets/deo-blog-posts.php:596
+#: widgets/deo-blog-posts.php:644 widgets/deo-blog-posts.php:692
+#: widgets/deo-icon-box.php:192 widgets/deo-images-slider.php:267
+#: widgets/deo-pricing-tables.php:883 widgets/deo-pricing-tables.php:923
+#: widgets/deo-pricing-tables.php:963 widgets/deo-pricing-tables.php:1019
+#: widgets/deo-pricing-tables.php:1080 widgets/deo-pricing-tables.php:1370
+#: widgets/deo-testimonials-slider.php:335
+#: widgets/deo-testimonials-slider.php:450
+#: widgets/deo-testimonials-slider.php:490
+#: widgets/deo-testimonials-slider.php:530
+msgid "Color"
+msgstr ""
+
+#: widgets/deo-blog-posts.php:542 widgets/deo-blog-posts.php:608
+#: widgets/deo-blog-posts.php:656 widgets/deo-case-studies.php:529
+msgid "Hover Color"
+msgstr ""
+
+#: widgets/deo-blog-posts.php:564
+msgid "Title Heading Tag"
+msgstr ""
+
+#: widgets/deo-blog-posts.php:567
+msgid "H1"
+msgstr ""
+
+#: widgets/deo-blog-posts.php:568
+msgid "H2"
+msgstr ""
+
+#: widgets/deo-blog-posts.php:569
+msgid "H3"
+msgstr ""
+
+#: widgets/deo-blog-posts.php:570
+msgid "H4"
+msgstr ""
+
+#: widgets/deo-blog-posts.php:571
+msgid "H5"
+msgstr ""
+
+#: widgets/deo-blog-posts.php:572
+msgid "H6"
+msgstr ""
+
+#: widgets/deo-blog-posts.php:762 widgets/deo-case-studies.php:207
+msgid "Load More Text"
+msgstr ""
+
+#: widgets/deo-blog-posts.php:786 widgets/deo-blog-posts.php:884
+#: widgets/deo-case-studies.php:716 widgets/deo-case-studies.php:814
+#: widgets/deo-contact-form-7.php:282 widgets/deo-contact-form-7.php:401
+#: widgets/deo-contact-form-7.php:473 widgets/deo-icon-box.php:204
+#: widgets/deo-mailchimp-form.php:250 widgets/deo-mailchimp-form.php:368
+#: widgets/deo-mailchimp-form.php:440 widgets/deo-pricing-tables.php:587
+#: widgets/deo-pricing-tables.php:672 widgets/deo-pricing-tables.php:1218
+#: widgets/deo-pricing-tables.php:1277
+msgid "Background Color"
+msgstr ""
+
+#: widgets/deo-blog-posts.php:813 widgets/deo-case-studies.php:743
+msgid "Hover Background Color"
+msgstr ""
+
+#: widgets/deo-blog-posts.php:921 widgets/deo-case-studies.php:851
+#: widgets/deo-pricing-tables.php:611
+msgid "Active Background Color"
+msgstr ""
+
+#: widgets/deo-blog-posts.php:935 widgets/deo-case-studies.php:865
+#: widgets/deo-pricing-tables.php:623
+msgid "Active Text Color"
+msgstr ""
+
+#: widgets/deo-blog-posts.php:958 widgets/deo-case-studies.php:888
+msgid "Arrows Size"
+msgstr ""
+
+#: widgets/deo-blog-posts.php:1398
+msgid "All categories"
+msgstr ""
+
+#: widgets/deo-breadcrumbs.php:33
+msgid "Deo Breadcrumbs"
+msgstr ""
+
+#: widgets/deo-breadcrumbs.php:84 widgets/deo-breadcrumbs.php:138
+msgid "Breadcrumbs"
+msgstr ""
+
+#: widgets/deo-breadcrumbs.php:94
+msgid "This widget works only when Breadcrumb NavXT plugin is activated."
+msgstr ""
+
+#: widgets/deo-breadcrumbs.php:112
+msgid "center"
+msgstr ""
+
+#: widgets/deo-breadcrumbs.php:158 widgets/deo-case-studies.php:614
+msgid "Link Color"
+msgstr ""
+
+#: widgets/deo-breadcrumbs.php:170
+msgid "Separator Color"
+msgstr ""
+
+#: widgets/deo-case-studies.php:33
+msgid "Deo Case Studies"
+msgstr ""
+
+#: widgets/deo-case-studies.php:108
+msgid "Post Options"
+msgstr ""
+
+#: widgets/deo-case-studies.php:117
+msgid "Categories"
+msgstr ""
+
+#: widgets/deo-case-studies.php:121
+msgid "Remove all categories to show all. This option affects filter as well."
+msgstr ""
+
+#: widgets/deo-case-studies.php:130
+msgid "Posts"
+msgstr ""
+
+#: widgets/deo-case-studies.php:131
+msgid "3"
+msgstr ""
+
+#: widgets/deo-case-studies.php:181
+msgid "Show filter"
+msgstr ""
+
+#: widgets/deo-case-studies.php:192
+msgid "Pagination Type"
+msgstr ""
+
+#: widgets/deo-case-studies.php:247
+msgid "Hide"
+msgstr ""
+
+#: widgets/deo-case-studies.php:283
+msgid "Hide Categories"
+msgstr ""
+
+#: widgets/deo-case-studies.php:308
+msgid "Hide Link"
+msgstr ""
+
+#: widgets/deo-case-studies.php:316
+msgid "Link Text"
+msgstr ""
+
+#: widgets/deo-case-studies.php:318
+msgid "View Case Study"
+msgstr ""
+
+#: widgets/deo-case-studies.php:336
+msgid "Filter"
+msgstr ""
+
+#: widgets/deo-case-studies.php:347
+msgid "Filter alignment"
+msgstr ""
+
+#: widgets/deo-case-studies.php:372
+msgid "Filter active background color"
+msgstr ""
+
+#: widgets/deo-case-studies.php:390
+msgid "Filter active color"
+msgstr ""
+
+#: widgets/deo-case-studies.php:403
+msgid "Filter links color"
+msgstr ""
+
+#: widgets/deo-case-studies.php:517
+msgid "Title Color"
+msgstr ""
+
+#: widgets/deo-case-studies.php:578
+msgid "Text Hover Color"
+msgstr ""
+
+#: widgets/deo-case-studies.php:626
+msgid "Link Hover Color"
+msgstr ""
+
+#: widgets/deo-case-studies.php:638
+msgid "Link Line Color"
+msgstr ""
+
+#: widgets/deo-case-studies.php:1121
+msgid "All"
+msgstr ""
+
+#: widgets/deo-contact-form-7.php:33
+msgid "Deo Contact Form 7"
+msgstr ""
+
+#: widgets/deo-contact-form-7.php:102
+msgid "Contact Form 7 Shortcode"
+msgstr ""
+
+#: widgets/deo-contact-form-7.php:110
+msgid "Enter Contact Form 7 Shortcode"
+msgstr ""
+
+#: widgets/deo-contact-form-7.php:111
+#, php-format
+msgid "Paste shortcode generated from %1$sContact Form 7%2$s"
+msgstr ""
+
+#: widgets/deo-contact-form-7.php:117
+msgid "[contact-form-7 id=\"497\" title=\"Contact form 1\"]"
+msgstr ""
+
+#: widgets/deo-contact-form-7.php:132 widgets/deo-mailchimp-form.php:132
+msgid "Form"
+msgstr ""
+
+#: widgets/deo-contact-form-7.php:140 widgets/deo-mailchimp-form.php:140
+msgid "Columns Gap"
+msgstr ""
+
+#: widgets/deo-contact-form-7.php:161 widgets/deo-mailchimp-form.php:161
+msgid "Rows Gap"
+msgstr ""
+
+#: widgets/deo-contact-form-7.php:182
+msgid "Label"
+msgstr ""
+
+#: widgets/deo-contact-form-7.php:191
+msgid "Label Spacing"
+msgstr ""
+
+#: widgets/deo-contact-form-7.php:222
+msgid "Mark Color"
+msgstr ""
+
+#: widgets/deo-contact-form-7.php:250 widgets/deo-mailchimp-form.php:190
+msgid "Fields"
+msgstr ""
+
+#: widgets/deo-contact-form-7.php:294
+msgid "Focus Border Color"
+msgstr ""
+
+#: widgets/deo-contact-form-7.php:328 widgets/deo-contact-form-7.php:452
+#: widgets/deo-mailchimp-form.php:298 widgets/deo-mailchimp-form.php:419
+msgid "Text Padding"
+msgstr ""
+
+#: widgets/deo-contact-form-7.php:348 widgets/deo-mailchimp-form.php:318
+#: widgets/deo-pricing-tables.php:1112
+msgid "Button"
+msgstr ""
+
+#: widgets/deo-contact-form-7.php:357
+msgid "Align"
+msgstr ""
+
+#: widgets/deo-contact-form-7.php:375
+msgid "Stretch"
+msgstr ""
+
+#: widgets/deo-contact-form-7.php:394 widgets/deo-mailchimp-form.php:361
+#: widgets/deo-pricing-tables.php:1195 widgets/deo-video-icon.php:191
+msgid "Normal"
+msgstr ""
+
+#: widgets/deo-contact-form-7.php:466 widgets/deo-mailchimp-form.php:433
+#: widgets/deo-pricing-tables.php:1254 widgets/deo-video-icon.php:224
+msgid "Hover"
+msgstr ""
+
+#: widgets/deo-contact-form-7.php:497 widgets/deo-mailchimp-form.php:262
+#: widgets/deo-mailchimp-form.php:464 widgets/deo-pricing-tables.php:635
+msgid "Border Color"
+msgstr ""
+
+#: widgets/deo-icon-box.php:33
+msgid "Deo Icon Box"
+msgstr ""
+
+#: widgets/deo-icon-box.php:109 widgets/deo-icon-box.php:184
+#: widgets/deo-video-icon.php:181
+msgid "Icon"
+msgstr ""
+
+#: widgets/deo-icon-box.php:122 widgets/deo-video-icon.php:279
+msgid "Base Size"
+msgstr ""
+
+#: widgets/deo-icon-box.php:126
+msgid "Large"
+msgstr ""
+
+#: widgets/deo-icon-box.php:127
+msgid "Medium"
+msgstr ""
+
+#: widgets/deo-icon-box.php:128
+msgid "Small"
+msgstr ""
+
+#: widgets/deo-icon-box.php:129
+msgid "Extra Small"
+msgstr ""
+
+#: widgets/deo-icon-box.php:138 widgets/deo-pricing-tables.php:292
+#: widgets/deo-pricing-tables.php:477
+msgid "Link"
+msgstr ""
+
+#: widgets/deo-icon-box.php:143
+msgid "https://your-link.com"
+msgstr ""
+
+#: widgets/deo-icon-box.php:216 widgets/deo-video-icon.php:259
+msgid "Icon Size"
+msgstr ""
+
+#: widgets/deo-illustrations.php:33
+msgid "Deo Illustrations"
+msgstr ""
+
+#: widgets/deo-illustrations.php:114
+msgid "Illustrations"
+msgstr ""
+
+#: widgets/deo-illustrations.php:122
+msgid "Choose Illustration"
+msgstr ""
+
+#: widgets/deo-illustrations.php:158
+msgid "Shape"
+msgstr ""
+
+#: widgets/deo-illustrations.php:166
+msgid "Minimum Height"
+msgstr ""
+
+#: widgets/deo-illustrations.php:167
+msgid "Used to prevent jumping effect when the illustration is loading"
+msgstr ""
+
+#: widgets/deo-images-slider.php:33
+msgid "Deo Images Slider"
+msgstr ""
+
+#: widgets/deo-images-slider.php:101 widgets/deo-testimonials-slider.php:105
+msgid "Slider Options"
+msgstr ""
+
+#: widgets/deo-images-slider.php:110 widgets/deo-testimonials-slider.php:114
+msgid "Slides to show"
+msgstr ""
+
+#: widgets/deo-images-slider.php:121 widgets/deo-testimonials-slider.php:125
+msgid "Slides to scroll"
+msgstr ""
+
+#: widgets/deo-images-slider.php:132 widgets/deo-testimonials-slider.php:137
+msgid "Autoplay"
+msgstr ""
+
+#: widgets/deo-images-slider.php:141 widgets/deo-testimonials-slider.php:146
+msgid "Autoplay Speed"
+msgstr ""
+
+#: widgets/deo-images-slider.php:156 widgets/deo-images-slider.php:178
+msgid "Images"
+msgstr ""
+
+#: widgets/deo-images-slider.php:181
+msgid "Image "
+msgstr ""
+
+#: widgets/deo-images-slider.php:229 widgets/deo-testimonials-slider.php:276
+msgid "Slide Space Between"
+msgstr ""
+
+#: widgets/deo-images-slider.php:259 widgets/deo-testimonials-slider.php:522
+msgid "Dots"
+msgstr ""
+
+#: widgets/deo-images-slider.php:283 widgets/deo-testimonials-slider.php:546
+msgid "Active Color"
+msgstr ""
+
+#: widgets/deo-images-slider.php:301 widgets/deo-testimonials-slider.php:564
+msgid "Dots Horizontal Space"
+msgstr ""
+
+#: widgets/deo-images-slider.php:322 widgets/deo-testimonials-slider.php:585
+msgid "Dots Top Space"
+msgstr ""
+
+#: widgets/deo-mailchimp-form.php:33
+msgid "Deo Mailchimp Form"
+msgstr ""
+
+#: widgets/deo-mailchimp-form.php:102
+msgid "Mailchimp Shortcode"
+msgstr ""
+
+#: widgets/deo-mailchimp-form.php:110
+msgid "Enter Mailchimp Shortcode"
+msgstr ""
+
+#: widgets/deo-mailchimp-form.php:111
+#, php-format
+msgid "Paste shortcode generated from %1$sMailchimp for WP%2$s"
+msgstr ""
+
+#: widgets/deo-mailchimp-form.php:117
+msgid "[mc4wp_form id=\"24\"]"
+msgstr ""
+
+#: widgets/deo-mailchimp-form.php:198
+msgid "Fields Width"
+msgstr ""
+
+#: widgets/deo-mailchimp-form.php:275
+msgid "Border Width"
+msgstr ""
+
+#: widgets/deo-mailchimp-form.php:326
+msgid "Button Width"
+msgstr ""
+
+#: widgets/deo-pricing-tables.php:33
+msgid "Deo Pricing Tables"
+msgstr ""
+
+#: widgets/deo-pricing-tables.php:112 widgets/deo-pricing-tables.php:556
+msgid "Toggle"
+msgstr ""
+
+#: widgets/deo-pricing-tables.php:120
+msgid "Show Toggle"
+msgstr ""
+
+#: widgets/deo-pricing-tables.php:129
+msgid "Primary Text"
+msgstr ""
+
+#: widgets/deo-pricing-tables.php:132 widgets/deo-pricing-tables.php:133
+msgid "Monthly"
+msgstr ""
+
+#: widgets/deo-pricing-tables.php:140
+msgid "Secondary Text"
+msgstr ""
+
+#: widgets/deo-pricing-tables.php:143 widgets/deo-pricing-tables.php:144
+msgid "Annual"
+msgstr ""
+
+#: widgets/deo-pricing-tables.php:184
+msgid "Primary"
+msgstr ""
+
+#: widgets/deo-pricing-tables.php:194 widgets/deo-pricing-tables.php:379
+msgid "Best Price"
+msgstr ""
+
+#: widgets/deo-pricing-tables.php:203 widgets/deo-pricing-tables.php:388
+msgid "Best Price Text"
+msgstr ""
+
+#: widgets/deo-pricing-tables.php:205 widgets/deo-pricing-tables.php:206
+#: widgets/deo-pricing-tables.php:390 widgets/deo-pricing-tables.php:391
+msgid "Popular"
+msgstr ""
+
+#: widgets/deo-pricing-tables.php:227 widgets/deo-pricing-tables.php:230
+#: widgets/deo-pricing-tables.php:412 widgets/deo-pricing-tables.php:415
+#: widgets/deo-testimonials-slider.php:190
+#: widgets/deo-testimonials-slider.php:442
+msgid "Name"
+msgstr ""
+
+#: widgets/deo-pricing-tables.php:229 widgets/deo-pricing-tables.php:328
+#: widgets/deo-pricing-tables.php:414 widgets/deo-pricing-tables.php:513
+msgid "Business"
+msgstr ""
+
+#: widgets/deo-pricing-tables.php:237 widgets/deo-pricing-tables.php:240
+#: widgets/deo-pricing-tables.php:422 widgets/deo-pricing-tables.php:425
+#: widgets/deo-pricing-tables.php:915
+msgid "Currency"
+msgstr ""
+
+#: widgets/deo-pricing-tables.php:239 widgets/deo-pricing-tables.php:319
+#: widgets/deo-pricing-tables.php:329 widgets/deo-pricing-tables.php:338
+#: widgets/deo-pricing-tables.php:347 widgets/deo-pricing-tables.php:424
+#: widgets/deo-pricing-tables.php:504 widgets/deo-pricing-tables.php:514
+#: widgets/deo-pricing-tables.php:523 widgets/deo-pricing-tables.php:532
+msgid "$"
+msgstr ""
+
+#: widgets/deo-pricing-tables.php:247 widgets/deo-pricing-tables.php:250
+#: widgets/deo-pricing-tables.php:432 widgets/deo-pricing-tables.php:435
+#: widgets/deo-pricing-tables.php:955
+msgid "Price"
+msgstr ""
+
+#: widgets/deo-pricing-tables.php:249
+msgid "19"
+msgstr ""
+
+#: widgets/deo-pricing-tables.php:257 widgets/deo-pricing-tables.php:260
+#: widgets/deo-pricing-tables.php:442 widgets/deo-pricing-tables.php:445
+#: widgets/deo-pricing-tables.php:1011
+msgid "Term"
+msgstr ""
+
+#: widgets/deo-pricing-tables.php:269 widgets/deo-pricing-tables.php:321
+#: widgets/deo-pricing-tables.php:454 widgets/deo-pricing-tables.php:506
+msgid "An entry tool for those who started. Forever free."
+msgstr ""
+
+#: widgets/deo-pricing-tables.php:270 widgets/deo-pricing-tables.php:455
+#: widgets/deo-pricing-tables.php:1051
+msgid "Description"
+msgstr ""
+
+#: widgets/deo-pricing-tables.php:271 widgets/deo-pricing-tables.php:456
+msgid "Input text here"
+msgstr ""
+
+#: widgets/deo-pricing-tables.php:280 widgets/deo-pricing-tables.php:284
+#: widgets/deo-pricing-tables.php:465 widgets/deo-pricing-tables.php:469
+#: widgets/deo-video-icon.php:138
+msgid "Button Text"
+msgstr ""
+
+#: widgets/deo-pricing-tables.php:283 widgets/deo-pricing-tables.php:322
+#: widgets/deo-pricing-tables.php:332 widgets/deo-pricing-tables.php:341
+#: widgets/deo-pricing-tables.php:350 widgets/deo-pricing-tables.php:468
+#: widgets/deo-pricing-tables.php:507 widgets/deo-pricing-tables.php:517
+#: widgets/deo-pricing-tables.php:526 widgets/deo-pricing-tables.php:535
+msgid "Get Started"
+msgstr ""
+
+#: widgets/deo-pricing-tables.php:294 widgets/deo-pricing-tables.php:479
+msgid "https://example.com"
+msgstr ""
+
+#: widgets/deo-pricing-tables.php:301 widgets/deo-pricing-tables.php:324
+#: widgets/deo-pricing-tables.php:334 widgets/deo-pricing-tables.php:343
+#: widgets/deo-pricing-tables.php:352 widgets/deo-pricing-tables.php:486
+#: widgets/deo-pricing-tables.php:509 widgets/deo-pricing-tables.php:519
+#: widgets/deo-pricing-tables.php:528 widgets/deo-pricing-tables.php:537
+msgid "Features List"
+msgstr ""
+
+#: widgets/deo-pricing-tables.php:302 widgets/deo-pricing-tables.php:487
+#: widgets/deo-pricing-tables.php:1341
+msgid "Features"
+msgstr ""
+
+#: widgets/deo-pricing-tables.php:313 widgets/deo-pricing-tables.php:498
+msgid "Pricing Tables"
+msgstr ""
+
+#: widgets/deo-pricing-tables.php:318 widgets/deo-pricing-tables.php:503
+msgid "Free"
+msgstr ""
+
+#: widgets/deo-pricing-tables.php:320 widgets/deo-pricing-tables.php:505
+msgid "0"
+msgstr ""
+
+#: widgets/deo-pricing-tables.php:323 widgets/deo-pricing-tables.php:333
+#: widgets/deo-pricing-tables.php:342 widgets/deo-pricing-tables.php:351
+#: widgets/deo-pricing-tables.php:508 widgets/deo-pricing-tables.php:518
+#: widgets/deo-pricing-tables.php:527 widgets/deo-pricing-tables.php:536
+msgid "#"
+msgstr ""
+
+#: widgets/deo-pricing-tables.php:327 widgets/deo-pricing-tables.php:512
+msgid "yes"
+msgstr ""
+
+#: widgets/deo-pricing-tables.php:330
+msgid "9"
+msgstr ""
+
+#: widgets/deo-pricing-tables.php:331 widgets/deo-pricing-tables.php:516
+msgid "Perfect plan for professional designers and users."
+msgstr ""
+
+#: widgets/deo-pricing-tables.php:337 widgets/deo-pricing-tables.php:522
+msgid "Premium"
+msgstr ""
+
+#: widgets/deo-pricing-tables.php:339
+msgid "17"
+msgstr ""
+
+#: widgets/deo-pricing-tables.php:340 widgets/deo-pricing-tables.php:349
+#: widgets/deo-pricing-tables.php:525 widgets/deo-pricing-tables.php:534
+msgid "Lifetime plan for professional designers and users."
+msgstr ""
+
+#: widgets/deo-pricing-tables.php:346 widgets/deo-pricing-tables.php:531
+msgid "VIP"
+msgstr ""
+
+#: widgets/deo-pricing-tables.php:348
+msgid "29"
+msgstr ""
+
+#: widgets/deo-pricing-tables.php:369
+msgid "Secondary"
+msgstr ""
+
+#: widgets/deo-pricing-tables.php:434 widgets/deo-pricing-tables.php:515
+msgid "99"
+msgstr ""
+
+#: widgets/deo-pricing-tables.php:524
+msgid "199"
+msgstr ""
+
+#: widgets/deo-pricing-tables.php:533
+msgid "299"
+msgstr ""
+
+#: widgets/deo-pricing-tables.php:567
+msgid "Toggle Margin Bottom"
+msgstr ""
+
+#: widgets/deo-pricing-tables.php:664
+msgid "Best"
+msgstr ""
+
+#: widgets/deo-pricing-tables.php:782
+msgid "Background"
+msgstr ""
+
+#: widgets/deo-pricing-tables.php:826 widgets/deo-pricing-tables.php:862
+msgid "Bottom Margin"
+msgstr ""
+
+#: widgets/deo-pricing-tables.php:979
+msgid "Best Price Color"
+msgstr ""
+
+#: widgets/deo-pricing-tables.php:1059 widgets/deo-pricing-tables.php:1120
+#: widgets/deo-pricing-tables.php:1349
+msgid "Top Margin"
+msgstr ""
+
+#: widgets/deo-pricing-tables.php:1141
+msgid "Section Background"
+msgstr ""
+
+#: widgets/deo-pricing-tables.php:1151
+msgid "Typography"
+msgstr ""
+
+#: widgets/deo-pricing-tables.php:1311
+msgid "Transition Duration"
+msgstr ""
+
+#: widgets/deo-testimonials-slider.php:33
+msgid "Deo Testimonials Slider"
+msgstr ""
+
+#: widgets/deo-testimonials-slider.php:126
+msgid "Set how many slides are scrolled per swipe."
+msgstr ""
+
+#: widgets/deo-testimonials-slider.php:161
+#: widgets/deo-testimonials-slider.php:208
+msgid "Testimonials"
+msgstr ""
+
+#: widgets/deo-testimonials-slider.php:170
+msgid "Testimonial Image"
+msgstr ""
+
+#: widgets/deo-testimonials-slider.php:181
+#: widgets/deo-testimonials-slider.php:183
+#: widgets/deo-testimonials-slider.php:213
+msgid "Testimonial Text"
+msgstr ""
+
+#: widgets/deo-testimonials-slider.php:192
+#: widgets/deo-testimonials-slider.php:214
+msgid "Testimonial Name"
+msgstr ""
+
+#: widgets/deo-testimonials-slider.php:198
+#: widgets/deo-testimonials-slider.php:482
+msgid "Company"
+msgstr ""
+
+#: widgets/deo-testimonials-slider.php:200
+#: widgets/deo-testimonials-slider.php:215
+msgid "Testimonial Company"
+msgstr ""
+
+#: widgets/deo-testimonials-slider.php:218
+msgid "Testimonial Text #2"
+msgstr ""
+
+#: widgets/deo-testimonials-slider.php:219
+msgid "Testimonial Name #2"
+msgstr ""
+
+#: widgets/deo-testimonials-slider.php:220
+msgid "Testimonial Company #2"
+msgstr ""
+
+#: widgets/deo-testimonials-slider.php:223
+msgid "Testimonial Text #3"
+msgstr ""
+
+#: widgets/deo-testimonials-slider.php:224
+msgid "Testimonial Name #3"
+msgstr ""
+
+#: widgets/deo-testimonials-slider.php:225
+msgid "Testimonial Company #3"
+msgstr ""
+
+#: widgets/deo-testimonials-slider.php:298
+msgid "Box Padding"
+msgstr ""
+
+#: widgets/deo-testimonials-slider.php:356
+#: widgets/deo-testimonials-slider.php:413
+msgid "Bottom Space"
+msgstr ""
+
+#: widgets/deo-testimonials-slider.php:392
+msgid "Size"
+msgstr ""
+
+#: widgets/deo-video-icon.php:33
+msgid "Deo Video Icon"
+msgstr ""
+
+#: widgets/deo-video-icon.php:115
+msgid "Video"
+msgstr ""
+
+#: widgets/deo-video-icon.php:123
+msgid "Video URL"
+msgstr ""
+
+#: widgets/deo-video-icon.php:124
+msgid "Paste YouTube or Video URL"
+msgstr ""
+
+#: widgets/deo-video-icon.php:131
+msgid "https://www.youtube.com/watch?v=nVzVohG304A"
+msgstr ""
+
+#: widgets/deo-video-icon.php:140
+msgid "How it Works"
+msgstr ""
+
+#: widgets/deo-video-icon.php:198
+msgid "Icon Color"
+msgstr ""
+
+#: widgets/deo-video-icon.php:210
+msgid "Icon Background Color"
+msgstr ""
+
+#: widgets/deo-video-icon.php:231
+msgid "Icon Hover Color"
+msgstr ""
+
+#: widgets/deo-video-icon.php:243
+msgid "Icon Hover Background Color"
+msgstr ""
